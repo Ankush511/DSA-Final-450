@@ -11,19 +11,7 @@ class Solution {
   public:
     int getMinDiff(int arr[], int n, int k) {
         // code here
-        sort(arr,arr+n);
-        int min=0,max=0;
-        int diff;
-        for(int i=0;i<n;i++){
-            if(min<arr[0] && arr[i]>0){
-                min = arr[i]+k;
-            }
-            else{
-                max = arr[n-1]-k;
-            }
-            diff = max - min;
-        }
-        return diff;
+        
     }
 };
 
