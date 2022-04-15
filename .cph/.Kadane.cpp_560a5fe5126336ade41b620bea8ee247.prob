@@ -1,1 +1,1 @@
-{"name":"Local: Kadane","url":"f:\\Programs\\Final 450\\Kadane.cpp","tests":[{"id":1649439965952,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programs\\Final 450\\Kadane.cpp","group":"local","local":true}
+{"name":"Local: Kadane","url":"f:\\Programs\\Final 450\\Kadane.cpp","tests":[{"id":1649439965952,"input":"1\n4\n-3 -4 -1 -2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Programs\\Final 450\\Kadane.cpp","group":"local","local":true}
